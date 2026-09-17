@@ -1,18 +1,21 @@
-# Results — 2026-09-17 — Embeddings & hybrid search
+# Results — 2026-09-17
 
-Статус: **ожидает ответов в чате** (теория+квиз доставлены routine 2026-09-16 ~09:00 MSK).
+Score: **9 / 10 (90%)**  
+Topic: Embeddings & hybrid search  
+Completed in chat with AI Grow Trainer.
 
-| # | Ответ Stan | Верно? |
-|---|------------|--------|
-| 1 | — | — |
-| 2 | — | — |
-| 3 | — | — |
-| 4 | — | — |
-| 5 | — | — |
-| 6 | — | — |
-| 7 | — | — |
-| 8 | — | — |
-| 9 | — | — |
-| 10 | — | — |
+| # | Given | Correct |
+|---|-------|---------|
+| 1 | B | B ✓ |
+| 2 | B | B ✓ |
+| 3 | C | C ✓ |
+| 4 | B | B ✓ |
+| 5 | B | B ✓ |
+| 6 | B | B ✓ |
+| 7 | A | B ✗ |
+| 8 | B | B ✓ |
+| 9 | B | B ✓ |
+| 10 | C | C ✓ |
 
-Итого: —/10 (—%)
+Weak: keyword branch cost (FTS, no Voyage call) vs vector paraphrase strength.  
+Day 1 weak zones (categories, localhost binds, durable vs journal) — recovered on review Q8–Q10.
