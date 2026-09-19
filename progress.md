@@ -5,6 +5,7 @@
 | 2026-09-16 | Hermes Memory: архитектура и поиск | 10 | 6 | 60% | completed | Слабые зоны закрыты на дне 2 |
 | 2026-09-17 | Embeddings & hybrid search | 10 | 9 | 90% | completed | Ошибка: 7 (keyword cost) |
 | 2026-09-18 | Documents vs memories (chunking) | 10 | 6 | 60% | completed | Ошибки: 2, 4, 6, 7 |
+| 2026-09-19 | Provenance & trust | 10 | — | — | in_progress | Мини-повтор слабых зон дня 3 |
 
 ## Ответы дня 3
 
@@ -23,13 +24,13 @@
 
 ## Серия
 
-- Текущая серия дней подряд: 3
+- Текущая серия дней подряд: 3 (день 4 в процессе)
 - Всего дней с тестами: 3
 - Средний %: 70%
 
 ## Слабые зоны
 
-1. Чанки не в memory_search (baseline без отдельного eval)
-2. Длинный Plaud → document_add, не memory_add
-3. Фильтр kind — в SQL до кандидатов
+1. Чанки не в memory_search (baseline без отдельного eval) — повтор в дне 4
+2. Длинный Plaud → document_add, не memory_add — повтор в дне 4
+3. Фильтр kind — в SQL до кандидатов — повтор в дне 4
 4. LLM-enrichment чанков сознательно не делается
