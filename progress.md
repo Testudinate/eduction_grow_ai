@@ -5,7 +5,8 @@
 | 2026-09-16 | Hermes Memory: архитектура и поиск | 10 | 6 | 60% | completed | Слабые зоны закрыты на дне 2 |
 | 2026-09-17 | Embeddings & hybrid search | 10 | 9 | 90% | completed | Ошибка: 7 (keyword cost) |
 | 2026-09-18 | Documents vs memories (chunking) | 10 | 6 | 60% | completed | Ошибки: 2, 4, 6, 7 |
-| 2026-09-19 | Provenance & trust | 10 | — | — | in_progress | Мини-повтор слабых зон дня 3 |
+| 2026-09-19 | Provenance & trust | 10 | — | — | in_progress | Мини-повтор слабых зон дня 3; квиз не сдан |
+| 2026-09-20 | Usage accounting (POST /usage, llm-shared) | 10 | — | — | in_progress | Мини-повтор provenance Q9–Q10 |
 
 ## Ответы дня 3
 
@@ -24,7 +25,7 @@
 
 ## Серия
 
-- Текущая серия дней подряд: 3 (день 4 в процессе)
+- Текущая серия дней подряд: 4 (день 5 в процессе; день 4 квиз всё ещё open)
 - Всего дней с тестами: 3
 - Средний %: 70%
 
@@ -34,3 +35,4 @@
 2. Длинный Plaud → document_add, не memory_add — повтор в дне 4
 3. Фильтр kind — в SQL до кандидатов — повтор в дне 4
 4. LLM-enrichment чанков сознательно не делается
+5. Provenance day 4 quiz pending — мини-повтор в дне 5 Q9–Q10
